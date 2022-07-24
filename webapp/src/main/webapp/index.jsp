@@ -6,3 +6,4 @@
 <h1>This is </h1>
 <h1>my Practice2</h1>
 <h1>nnnnnnnnnnnnnnn</h1>
+<h1>This is manula release through release pipeline</h1>
